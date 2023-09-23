@@ -1,3 +1,9 @@
 hi
+<<<<<<< HEAD
 test(i)
 b
+=======
+test(o)
+s
+
+>>>>>>> test
